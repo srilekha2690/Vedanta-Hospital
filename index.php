@@ -406,7 +406,7 @@
             <div class="row dev-list text-center">
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeIn;">
                     <div class="widget clearfix" style="padding-bottom: 5px;">
-                        <img src="images/t1.png" alt="" class="img-responsive img-rounded">
+                        <img src="images/t1.jpg" alt="" class="img-responsive img-rounded">
                         <div class="widget-title">
                             <h3>Dr. Dhananjay  Sampatrao Pote</h3>
                             <small>Certificate : 2011 05 1445</small>
@@ -419,7 +419,7 @@
 
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeIn;">
                     <div class="widget clearfix" style="padding-bottom: 5px;">
-                        <img src="images/t2.png" alt="" class="img-responsive img-rounded">
+                        <img src="images/t2.jpg" alt="" class="img-responsive img-rounded">
                         <div class="widget-title">
                             <h3>Dr. Shital Dhananjay Pote</h3>
                             <small>Certificate : I 77912 A</small>
@@ -434,7 +434,7 @@
            <!--  <div class="row dev-list text-center"> -->
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeIn;">
                     <div class="widget clearfix" style="padding-bottom: 5px;">
-                        <img src="images/t3.png" alt="" class="img-responsive img-rounded">
+                        <img src="images/t3.jpg" alt="" class="img-responsive img-rounded">
                         <div class="widget-title">
                             <h3>Dr. Pallavi Gopal Khairnar</h3>
                             <small>Certificate : 2013/03/0651</small>
@@ -449,7 +449,7 @@
             <div class="row dev-list text-center"> 
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeIn;">
                     <div class="widget clearfix" >
-                        <img src="images/t5.png" alt="" class="img-responsive img-rounded">
+                        <img src="images/t5.jpg" alt="" class="img-responsive img-rounded">
                         <div class="widget-title">
                             <h3>Dr.Akashkiran Vijayrao Somvanshi</h3>
                             <small>Certificate :  2011/12/3461</small>
@@ -463,7 +463,7 @@
                <div class="row dev-list text-center"> -->
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeIn;">
                     <div class="widget clearfix" >
-                        <img src="images/t4.png" alt="" class="img-responsive img-rounded">
+                        <img src="images/t4.jpg" alt="" class="img-responsive img-rounded">
                         <div class="widget-title">
                             <h3>Dr.Hemant Chandrakant Palave </h3>
                             <small>Certificate : 2012 040 984</small>
@@ -477,7 +477,7 @@
               <!--  <div class="row dev-list text-center"> -->
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeIn;">
                     <div class="widget clearfix" >
-                        <img src="images/t6.png" alt="" class="img-responsive img-rounded">
+                        <img src="images/t6.jpg" alt="" class="img-responsive img-rounded">
                         <div class="widget-title">
                             <h3>Dr. Palave Vishaka Hemant</h3>
                             <small>Certificate : 2016 071865</small>
