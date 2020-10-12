@@ -191,7 +191,7 @@
          <div class="container">
             <div class="heading">
                <span class="icon-logo"><img src="images/icon-logo.png" alt="#"></span>
-               <h2>The Specialist Clinic</h2>
+               <h2>Criticare Multi Speciality Hospital</h2>
             </div>
             <!-- end title -->
             <div class="row">
@@ -220,6 +220,7 @@
             <hr class="hr1">
             <div class="row">
                <div class="heading" style="margin-top: -50px;">
+                  <span class="icon-logo"><img src="images/icon-logo.png" alt="#"></span>
                   <h2>Our Features</h2>
                </div>
                <div class="col-md-3 col-sm-6 col-xs-12">
@@ -269,6 +270,7 @@
 
       <div id="service" class="services wow fadeIn">
          <div class="container">
+            <span class="icon-logo"><img src="images/icon-logo.png" alt="#"></span>
             <h2 style="color: white; margin-top: -10px; "><center>Our Services</h2>
             <div class="row">
                <div class="col-lg-12 col-md-12 col-sm-6 col-xs-12">
@@ -360,7 +362,7 @@
           <div id="about" class="section wow fadeIn">
          <div class="container">
              <div class="heading" style="margin-top: 30px;">
-               <!-- <span class="icon-logo"><img src="images/icon-logo.png" alt="#"></span> -->
+                <span class="icon-logo"><img src="images/icon-logo.png" alt="#"></span> 
                <h2>Our Family</h2>
             </div> 
             <!-- end title -->
@@ -395,10 +397,10 @@
       </div>
 
 
-	<div id="doctors" class="parallax section db" data-stellar-background-ratio="0.4" style="background:#fff;" data-scroll-id="doctors" tabindex="-1">
+   <div id="doctors" class="parallax section db" data-stellar-background-ratio="0.4" style="background:#fff;" data-scroll-id="doctors" tabindex="-1">
         <div class="container">
-		
-		       <div class="heading" style="margin-top: 60px; margin-bottom: -5px;">
+      
+             <div class="heading" style="margin-top: 60px; margin-bottom: -5px;">
                <span class="icon-logo"><img src="images/icon-logo.png" alt="#"></span>
                <h2>The Team</h2>
             </div>
@@ -406,7 +408,7 @@
             <div class="row dev-list text-center">
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeIn;">
                     <div class="widget clearfix" style="padding-bottom: 5px;">
-                        <img src="images/t1.jpg" alt="" class="img-responsive img-rounded">
+                        <img src="images/t1.JPG" alt="" class="img-responsive img-rounded">
                         <div class="widget-title">
                             <h3>Dr. Dhananjay  Sampatrao Pote</h3>
                             <small>Certificate : 2011 05 1445</small>
@@ -419,7 +421,37 @@
 
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeIn;">
                     <div class="widget clearfix" style="padding-bottom: 5px;">
-                        <img src="images/t2.jpg" alt="" class="img-responsive img-rounded">
+                        <img src="images/t5.JPG" alt="" class="img-responsive img-rounded">
+                        <div class="widget-title">
+                            <h3>Dr.Hemant Chandrakant Palave </h3>
+                            <small>Certificate : 2012 040 984</small>
+                        </div>
+                        <!-- end title -->
+                        <p>Consultant Physicion & Intensivist.</p>
+
+<!-- -->
+                    </div><!--widget -->
+                </div><!-- end col -->
+
+               <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeIn;">
+                    <div class="widget clearfix" >
+                        <img src="images/t4.JPG" alt="" class="img-responsive img-rounded">
+                        <div class="widget-title">
+                            <h3>Dr.Akashkiran Vijayrao Somvanshi</h3>
+                            <small>Certificate :  2011/12/3461</small>
+                        </div>
+                        <!-- end title -->
+                        <p>Orthopaedic Surgery</p>
+
+                    </div><!--widget -->
+                </div>
+           <!--  <div class="row dev-list text-center"> -->
+
+
+            <div class="row dev-list text-center"> 
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeIn;">
+                    <div class="widget clearfix" style="padding-bottom: 5px;">
+                        <img src="images/t2.JPG" alt="" class="img-responsive img-rounded">
                         <div class="widget-title">
                             <h3>Dr. Shital Dhananjay Pote</h3>
                             <small>Certificate : I 77912 A</small>
@@ -427,14 +459,15 @@
                         <!-- end title -->
                         <p>Gynaecologist</p>
 
-<!-- -->
                     </div><!--widget -->
                 </div><!-- end col -->
-
-           <!--  <div class="row dev-list text-center"> -->
+                  
+ <!-- end col -->
+<!-- 
+               <div class="row dev-list text-center"> -->
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeIn;">
-                    <div class="widget clearfix" style="padding-bottom: 5px;">
-                        <img src="images/t3.jpg" alt="" class="img-responsive img-rounded">
+                    <div class="widget clearfix" >
+                        <img src="images/t3.JPG" alt="" class="img-responsive img-rounded">
                         <div class="widget-title">
                             <h3>Dr. Pallavi Gopal Khairnar</h3>
                             <small>Certificate : 2013/03/0651</small>
@@ -444,40 +477,10 @@
 
                     </div><!--widget -->
                 </div><!-- end col -->
-            </div>
-
-            <div class="row dev-list text-center"> 
-                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeIn;">
-                    <div class="widget clearfix" >
-                        <img src="images/t5.jpg" alt="" class="img-responsive img-rounded">
-                        <div class="widget-title">
-                            <h3>Dr.Akashkiran Vijayrao Somvanshi</h3>
-                            <small>Certificate :  2011/12/3461</small>
-                        </div>
-                        <!-- end title -->
-                        <p>Orthopaedic Surgery</p>
-
-                    </div><!--widget -->
-                </div><!-- end col -->
-<!-- 
-               <div class="row dev-list text-center"> -->
-                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeIn;">
-                    <div class="widget clearfix" >
-                        <img src="images/t4.jpg" alt="" class="img-responsive img-rounded">
-                        <div class="widget-title">
-                            <h3>Dr.Hemant Chandrakant Palave </h3>
-                            <small>Certificate : 2012 040 984</small>
-                        </div>
-                        <!-- end title -->
-                        <p>Consultant Physicion & Intensivist.</p>
-
-                        
-                    </div><!--widget -->
-                </div><!-- end col -->
               <!--  <div class="row dev-list text-center"> -->
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeIn;">
                     <div class="widget clearfix" >
-                        <img src="images/t6.jpg" alt="" class="img-responsive img-rounded">
+                        <img src="images/doc.JPG" alt="" class="img-responsive img-rounded">
                         <div class="widget-title">
                             <h3>Dr. Palave Vishaka Hemant</h3>
                             <small>Certificate : 2016 071865</small>
